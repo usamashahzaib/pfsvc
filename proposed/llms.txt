@@ -12,6 +12,17 @@
 - Professional: PKR 9,999
 - Enterprise: custom quote
 
+## Verification standards
+- Government ID cross-check (CNIC or passport) and a live video liveness match.
+- Sanctions and AML screening.
+- Proctored, timed skills assessment with browser lock and AI-detection tools.
+- Live interview with a certified senior practitioner.
+- Annual re-verification. Seal is revoked if work is falsified or contracts are outsourced.
+
+## Published figures (as stated by PFSVC)
+- Acceptance rate: 22%
+- Fraud denials: 1,200+
+
 ## Pages
 - Home: https://www.pfsvc.com.pk/
 - Services: https://www.pfsvc.com.pk/services.html
@@ -21,4 +32,5 @@
 - PFSVC vs PSEB: https://www.pfsvc.com.pk/blog/pfsvc-vs-pseb.html
 
 ## Contact
-- verify@pfsvc.com.pk
+- Verification: verify@pfsvc.com.pk
+- General: pfsvc.pakistan@outlook.com

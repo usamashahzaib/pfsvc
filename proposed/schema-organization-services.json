@@ -8,24 +8,48 @@
       "alternateName": "PFSVC",
       "url": "https://www.pfsvc.com.pk/",
       "description": "Pakistan's independent verification body for freelancers and professionals. It is not a government body.",
-      "email": "verify@pfsvc.com.pk",
-      "areaServed": "Worldwide"
+      "areaServed": "Worldwide",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "verification",
+          "email": "verify@pfsvc.com.pk",
+          "availableLanguage": [
+            "English"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer support",
+          "email": "pfsvc.pakistan@outlook.com",
+          "availableLanguage": [
+            "English"
+          ]
+        }
+      ]
     },
     {
       "@type": "WebSite",
       "@id": "https://www.pfsvc.com.pk/#website",
       "url": "https://www.pfsvc.com.pk/",
       "name": "PFSVC",
-      "publisher": { "@id": "https://www.pfsvc.com.pk/#organization" }
+      "publisher": {
+        "@id": "https://www.pfsvc.com.pk/#organization"
+      }
     },
     {
       "@type": "Service",
       "@id": "https://www.pfsvc.com.pk/services.html#freelancer-verification",
       "name": "Freelancer verification",
       "serviceType": "Identity, skills and interview verification",
-      "provider": { "@id": "https://www.pfsvc.com.pk/#organization" },
+      "provider": {
+        "@id": "https://www.pfsvc.com.pk/#organization"
+      },
       "areaServed": "PK",
-      "audience": { "@type": "Audience", "audienceType": "Freelancers and remote professionals in Pakistan" },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Freelancers and remote professionals in Pakistan"
+      },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "Membership plans",
@@ -52,16 +76,26 @@
       "@id": "https://www.pfsvc.com.pk/services.html#seal-lookup",
       "name": "Public seal lookup",
       "serviceType": "Credential verification for hiring managers",
-      "provider": { "@id": "https://www.pfsvc.com.pk/#organization" },
-      "audience": { "@type": "Audience", "audienceType": "Hiring managers and founders" }
+      "provider": {
+        "@id": "https://www.pfsvc.com.pk/#organization"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Hiring managers and founders"
+      }
     },
     {
       "@type": "Service",
       "@id": "https://www.pfsvc.com.pk/services.html#team-verification",
       "name": "Team and enterprise verification",
       "serviceType": "Bulk verification for 5 or more members",
-      "provider": { "@id": "https://www.pfsvc.com.pk/#organization" },
-      "audience": { "@type": "Audience", "audienceType": "Agencies, founders and teams" }
+      "provider": {
+        "@id": "https://www.pfsvc.com.pk/#organization"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Agencies, founders and teams"
+      }
     }
   ]
 }
