@@ -5,13 +5,13 @@ Source: live pages fetched through the owner's Chrome. Search Console, 28 days t
 PFSVC is a freelancer verification council, not a financial services firm. The earlier FinancialService schema template was wrong and is removed.
 
 ## Claims
-Owner confirmed on 2026-10-27 that the claims on the site are true. Remaining work is presentation, not truth.
+Owner said the claims are real, then corrected two figures. Owner will verify the rest. Unverified until then.
 
 | Claim on site | Status | Action |
 |---|---|---|
 | "Official institution in Pakistan", "The Official Standard of Competence" | Owner did not address. The FAQ says PFSVC is not a government body, so "Official" can read as state-backed. | Consider "independent". Owner decision. |
-| "4,000,000+ Pakistani freelancers" | Owner confirmed. It is a market statistic about third parties. | Add a source link so readers and AI engines can check it. |
-| "22% acceptance rate", "1,200+ fraud denials" | Owner confirmed. | Add the period they cover and an "as of" date. |
+| "4,000,000+ Pakistani freelancers" | Owner got it from an AI chat, not a source. UNVERIFIED. | Remove until a primary source is found. Not used in these files. |
+| "22% acceptance rate", "1,200+ fraud denials" | WRONG on the live site. Owner says the real figures to date are 14% and 700+. | Correct the live site now. Add an "as of" date. Files here use 14% and 700+. |
 | Biometric liveness, sanctions and AML screening, proctored tests, AI detection | Owner confirmed. | Used on services.html. |
 | "Zero-risk" hiring wording | Owner confirmed claims. Wording still promises an outcome. | Consider "reduced risk". Owner decision. |
 | Client logo strip | Owner confirmed claims. | Keep only entries with written permission. |

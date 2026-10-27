@@ -20,8 +20,8 @@
 - Annual re-verification. Seal is revoked if work is falsified or contracts are outsourced.
 
 ## Published figures (as stated by PFSVC)
-- Acceptance rate: 22%
-- Fraud denials: 1,200+
+- Acceptance rate to date: 14% (as of 2026-10-27)
+- Fraud denials to date: 700+ (as of 2026-10-27)
 
 ## Pages
 - Home: https://www.pfsvc.com.pk/

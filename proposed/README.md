@@ -14,8 +14,8 @@ Read `audit.md` first. It lists claims on the live site that need proof or remov
 - `sitemap-fixes.md`: URL, lastmod and redirect problems.
 
 ## Open for the owner
-1. Fill the period and "as of" date for the 22% and 1,200+ figures in services.html and llms.txt.
-2. Add a source link for the 4,000,000+ freelancers figure.
+1. Correct the live site: it shows 22% and 1,200+, real figures are 14% and 700+.
+2. The 4,000,000+ freelancers figure has no source. Remove it from the live site or add a primary source.
 3. Decide on "Official" and "zero-risk" wording (see audit.md).
 4. Add the real review date to services.html.
 5. Send any further claims you want added. Only claims you confirm go in.
