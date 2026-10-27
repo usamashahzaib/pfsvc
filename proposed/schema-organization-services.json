@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.pfsvc.com.pk/#organization",
+      "name": "Pakistan Freelance & Skills Verification Council",
+      "alternateName": "PFSVC",
+      "url": "https://www.pfsvc.com.pk/",
+      "description": "Pakistan's independent verification body for freelancers and professionals. It is not a government body.",
+      "email": "verify@pfsvc.com.pk",
+      "areaServed": "Worldwide"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.pfsvc.com.pk/#website",
+      "url": "https://www.pfsvc.com.pk/",
+      "name": "PFSVC",
+      "publisher": { "@id": "https://www.pfsvc.com.pk/#organization" }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.pfsvc.com.pk/services.html#freelancer-verification",
+      "name": "Freelancer verification",
+      "serviceType": "Identity, skills and interview verification",
+      "provider": { "@id": "https://www.pfsvc.com.pk/#organization" },
+      "areaServed": "PK",
+      "audience": { "@type": "Audience", "audienceType": "Freelancers and remote professionals in Pakistan" },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Membership plans",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Basic",
+            "price": "1499",
+            "priceCurrency": "PKR",
+            "description": "Seal, identity verification, written skills assessment, 15 minute human interview, public directory listing. Billed per year."
+          },
+          {
+            "@type": "Offer",
+            "name": "Professional",
+            "price": "9999",
+            "priceCurrency": "PKR",
+            "description": "Everything in Basic, review within 7 days, skills report and interview transcript, badge assets, featured directory profile, annual re-verification. Billed per year."
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.pfsvc.com.pk/services.html#seal-lookup",
+      "name": "Public seal lookup",
+      "serviceType": "Credential verification for hiring managers",
+      "provider": { "@id": "https://www.pfsvc.com.pk/#organization" },
+      "audience": { "@type": "Audience", "audienceType": "Hiring managers and founders" }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.pfsvc.com.pk/services.html#team-verification",
+      "name": "Team and enterprise verification",
+      "serviceType": "Bulk verification for 5 or more members",
+      "provider": { "@id": "https://www.pfsvc.com.pk/#organization" },
+      "audience": { "@type": "Audience", "audienceType": "Agencies, founders and teams" }
+    }
+  ]
+}
