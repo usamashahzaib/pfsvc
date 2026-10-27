@@ -1,0 +1,18 @@
+{
+  "_readme": "Template only. Delete this key. Fill every FILL value from text visible on the page. Remove any field you cannot fill. Do not add ratings or reviews.",
+  "@context": "https://schema.org",
+  "@type": "FinancialService",
+  "@id": "https://pfsvc.com.pk/#organization",
+  "name": "FILL: legal business name as shown on the site",
+  "url": "https://pfsvc.com.pk/",
+  "description": "FILL: one sentence copied from the homepage",
+  "email": "FILL: only if shown on the contact page",
+  "telephone": "FILL: only if shown on the contact page",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "FILL: only if shown on the contact page",
+    "addressLocality": "FILL",
+    "addressCountry": "PK"
+  },
+  "sameAs": ["FILL: real profile URLs such as LinkedIn"]
+}
