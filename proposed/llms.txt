@@ -1,0 +1,36 @@
+# PFSVC (Pakistan Freelance & Skills Verification Council)
+
+> Independent verification body for freelancers and remote professionals in Pakistan. Not a government body. Issues a public seal after identity, skills and interview checks.
+
+## Services
+- Freelancer verification: identity and document review, skills assessment, live interview, public seal valid 12 months.
+- Public seal lookup: anyone can check a badge ID. No login.
+- Team and enterprise verification: 5 or more members, account manager, API access.
+
+## Pricing (per year)
+- Basic: PKR 1,499
+- Professional: PKR 9,999
+- Enterprise: custom quote
+
+## Verification standards
+- Government ID cross-check (CNIC or passport) and a live video liveness match.
+- Sanctions and AML screening.
+- Proctored, timed skills assessment with browser lock and AI-detection tools.
+- Live interview with a certified senior practitioner.
+- Annual re-verification. Seal is revoked if work is falsified or contracts are outsourced.
+
+## Published figures (as stated by PFSVC)
+- Acceptance rate to date: 14% (as of 2026-10-27)
+- Fraud denials to date: 700+ (as of 2026-10-27)
+
+## Pages
+- Home: https://www.pfsvc.com.pk/
+- Services: https://www.pfsvc.com.pk/services.html
+- FAQ: https://www.pfsvc.com.pk/faq.html
+- Standards: https://www.pfsvc.com.pk/standards.html
+- Governance: https://www.pfsvc.com.pk/governance.html
+- PFSVC vs PSEB: https://www.pfsvc.com.pk/blog/pfsvc-vs-pseb.html
+
+## Contact
+- Verification: verify@pfsvc.com.pk
+- General: pfsvc.pakistan@outlook.com
